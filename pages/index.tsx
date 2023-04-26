@@ -24,7 +24,7 @@ const Home: NextPage = () => {
 
 
         <div>
-        <Web3Button  contractAddress="0x2AD7BdEf55d635e928e9afcA52Ad6273E31B2cd9" action={(contract) =>
+        <Web3Button  contractAddress="0x825C67c860b4b9ea55bf49BCBa93685F36F4C598" action={(contract) =>
            {contract.erc721.claim(2)}}
            colorMode="light" accentColor="#fc0398"> 
             CLAIM NFT
@@ -41,7 +41,7 @@ const Home: NextPage = () => {
             </p>
              </a>
 
-          <a href="https://cocoblocks.buzz" className={styles.card}>
+          <a href="https://https://etherscan.io/address/0x825c67c860b4b9ea55bf49bcba93685f36f4c598" className={styles.card}>
             <h2>ETHERSCAN &rarr;</h2>
             <p>
               You can just mint on etherscan or manage your transactions.
@@ -49,7 +49,7 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://opensea.io"
+            href="https://opensea.io/collection/cocoblocksNFT"
             className={styles.card}
           >
             <h2>OPENSEA &rarr;</h2>
