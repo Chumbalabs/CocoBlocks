@@ -41,7 +41,7 @@ const Home: NextPage = () => {
             </p>
              </a>
 
-          <a href="https://https://etherscan.io/address/0x825c67c860b4b9ea55bf49bcba93685f36f4c598" className={styles.card}>
+          <a href="https://etherscan.io/address/0x825c67c860b4b9ea55bf49bcba93685f36f4c598" className={styles.card}>
             <h2>ETHERSCAN &rarr;</h2>
             <p>
               You can just mint on etherscan or manage your transactions.
@@ -49,7 +49,7 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href="https://opensea.io/collection/cocoblocksNFT"
+            href="https://opensea.io/collection/cocoblocksnft"
             className={styles.card}
           >
             <h2>OPENSEA &rarr;</h2>
