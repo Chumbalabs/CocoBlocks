@@ -27,7 +27,7 @@ const Home: NextPage = () => {
         <Web3Button  contractAddress="0x825C67c860b4b9ea55bf49BCBa93685F36F4C598" action={(contract) =>
            {contract.erc721.claim(5)}}
            colorMode="light" accentColor="#fc0398"> 
-            CLAIM NFT
+            MINT NFT
          </Web3Button>
         </div>
                 
